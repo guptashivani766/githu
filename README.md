@@ -1,1 +1,1 @@
-# githu
+# Algorithms Repository
